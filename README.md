@@ -28,3 +28,10 @@ class Foo extends Component {
     <a href="http://www.twitter.com"></li>Twitter</li></a>
 </ul>
 
+```
+
+### Todo
+
+- refactor code to remove link dependency
+- tests
+
