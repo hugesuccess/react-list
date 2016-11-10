@@ -1,0 +1,7 @@
+#outer-container ul {
+  padding: 0;
+}
+
+#outer-container li {
+  list-style-type: none;
+}
